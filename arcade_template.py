@@ -41,3 +41,4 @@ def on_mouse_press(x, y, button, modifiers):
 
 if __name__ == '__main__':
     setup()
+z
